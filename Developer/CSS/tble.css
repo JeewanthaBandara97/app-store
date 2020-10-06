@@ -1,0 +1,11 @@
+tr .UN {
+  text-align: left;
+  padding: 8px;
+  font-size: 30px;
+}
+
+tr .LO {
+  text-align: right;
+  padding: 8px;
+   font-size: 25px;
+}
